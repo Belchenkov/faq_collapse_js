@@ -2,7 +2,9 @@
 
 > FAQ Collapse Widget on Vanilla JS
 
-### [Demo]()
+### [Demo](http://faq-collapse-ab.surge.sh)
+
+[![IMAGE ALT TEXT HERE](./uploads/screen.png)](https://skr.sh/v5giXAeCOsz)
 
 ### Get started
 
